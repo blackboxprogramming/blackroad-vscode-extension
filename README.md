@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/blackboxprogramming/blackroad-vscode-extension.svg?style=social&label=Star)](https://github.com/blackboxprogramming/blackroad-vscode-extension)
+[![GitHub forks](https://img.shields.io/github/forks/blackboxprogramming/blackroad-vscode-extension.svg?style=social&label=Fork)](https://github.com/blackboxprogramming/blackroad-vscode-extension/fork)
+
+
 # BlackRoad VS Code Extension 💻
 
 Deploy to BlackRoad directly from VS Code!
